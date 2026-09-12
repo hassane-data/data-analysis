@@ -291,3 +291,13 @@ Next topics I plan to practice include:
 ## 📌 Note
 
 This repository is a personal learning portfolio. The data used in the payroll exercise is fictional and does not represent real employees or real payroll information.
+
+
+excel-learning-portfolio
+│
+├── README.md
+│
+└── 01-excel-basics
+    ├── README.md
+    └── exercises
+        └── your-first-exercise.xlsx
